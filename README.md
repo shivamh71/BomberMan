@@ -1,6 +1,8 @@
 <h1> BomberMan Game </h1>
 This is a game of BomberMan coded in Scheme. It has five levels. Difficulty increases on going to higher levels.
 
+<h4> Implementation details can be found <a href="http://shivamh71.github.io/Bomberman.pdf">here</a></h4>
+
 <h4> Requirements </h4>
 	drracket needs to installed
 
